@@ -25,3 +25,5 @@ The general usage of this library can be seen in the pseudo code example below:
 ```
 
 Details on use of library and function calls are available in function headings of pid.c.
+
+![alt text](https://github.com/electronicwilderness/pid_library/PID Library Diagram.png "PID Library Diagram")
